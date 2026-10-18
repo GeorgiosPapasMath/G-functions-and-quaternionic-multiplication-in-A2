@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+type: software
+title: "Mathematica computations for G-functions and quaternionic multiplication in A₂"
+authors:
+  - family-names: Papas
+    given-names: Georgios
+license: MIT

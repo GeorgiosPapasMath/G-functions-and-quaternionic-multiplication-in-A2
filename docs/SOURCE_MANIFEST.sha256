@@ -1,0 +1,10 @@
+# SHA-256 fingerprints of source material; these files are not bundled.
+# Notebook names identify the source calculations listed in CORRESPONDENCE.md.
+# manuscript.pdf is a reference label for the 27-page manuscript,
+# G-functions and quaternionic multiplication in A₂; it is not bundled.
+b202ff500cf90ac2e99f794d24b1d0c60a2a61e3691425b05271042c5135d83f  1.qmpolynomials.nb
+ba44869c60eb31966c0b1f248d950422607072fee19791540e3c75e8667cdbae  3.qmsubstitution.nb
+a39b129497a270824e4cb1aea2eac9f5d7ef9f7994428a6086e4f8641085eaaa  4.qmgrobnertest.nb
+edb7db65c67c716dd087a12dd9f2a90670c367775e85d443ffeea0c42fb766f4  5.qmordgrob1.nb
+312e68c025665192ab6dc264721264d2659eeb2d197a4cd9b30e66099d0790b1  6.qmgrobtestordfinal.nb
+f6a3606a47a7ae85ecdf5b0e235747d0e5a15e3c8df21a6d2162a1bbc7a8b861  manuscript.pdf
